@@ -1,0 +1,8 @@
+book_filename: "ASB Workshops Book.Rmd"
+output_dir: "_book"
+language:
+  label:
+    fig: "Figure "
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
